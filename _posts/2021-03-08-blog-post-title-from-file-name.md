@@ -24,6 +24,9 @@ The nuance of the debates take a less dramatic ("are there any use cases"),but m
 
 Zach has been fighting rounds with a bunch of names including Mike Dudas, Packy McCormick, and Aztec's John Wu (personal favorite), and the Web3 funding behemoth a16z's Shaun Maguire! 
 
+![Debate on Cartoon Avatars](/amenti4k.github.io/assets/images/Zack:Logan debate meme.png)
+![Debate on Cartoon Avatars](/assets/images/Zack:Logan debate meme.png)
+
 [jpeg](https://pbs.twimg.com/media/FV92zcwVUAAxyDD?format=png&name=small)
 /Users/amenti_kenea/Downloads/Zack:Logan debate meme.png
 
