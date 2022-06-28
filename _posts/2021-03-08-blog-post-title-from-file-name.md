@@ -1,7 +1,9 @@
 # Content Cannon 
+ Below is where I discuss thouights in current zeitgist and add more nuance through intellectual honesty. Inspirations range from books, podcasts, blogs, movies and tweets.
+ 
 ## Episode I: The Big Crypto Debate
 
-Below is where I discuss thouights in current zeitgist and add more nuance through intellectual honesty. Inspirations range from books, podcasts, blogs, movies and tweets.
+Featuring Three Cartoon Avatars
 
 ---
 ### ***Prelude***
