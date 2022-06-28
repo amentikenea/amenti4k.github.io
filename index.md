@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+A garden to practice the process harnessing my thoughts into something coherent.
+Ranges from reflections, views, reviews, and a content dump of things I liked. 
+Onwards. 
