@@ -9,9 +9,9 @@
 
 
 
-<p align="left">
+#<p align="left">
 ![Adam!](/assets/images/w1.png "adam")
-</p>
+#</p>
 
 <p align="right">
 ![Adam!](/assets/images/w2.png "adam")
