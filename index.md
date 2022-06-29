@@ -9,9 +9,8 @@
 
 
 
-<img align="right" width="100" height="100" src="http://www.fillmurray.com/100/100">
-![Adam!](/assets/images/w1.png "adam")
-<img align="right" width="100" height="100" src="http://www.fillmurray.com/100/100">
+
+<img align="left" width="100" height="100" src=![Adam!](/assets/images/w1.png "adam")>
 
 
 <p align="right">
