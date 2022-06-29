@@ -24,10 +24,10 @@
 
 </p>
 
-Topics will likely range from reflections, views, reviews, and a content dump of things I liked. 
+### Topics will likely range from reflections, views, reviews, and a content dump of things I liked. 
 
 <p align="right">
 ![Adam!](/assets/images/w4.png "adam")
 </p>
 
-*Onwards.*
+#### *Onwards.*
