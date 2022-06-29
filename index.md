@@ -5,3 +5,5 @@ Topics will likely range from reflections, views, reviews, and a content dump of
 
 
 Onwards. 
+
+![Adam!](/assets/images/adam.jpeg "adam")
