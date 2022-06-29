@@ -9,9 +9,10 @@
 
 
 
-#<p align="left">
+<img align="right" width="100" height="100" src="http://www.fillmurray.com/100/100">
 ![Adam!](/assets/images/w1.png "adam")
-#</p>
+<img align="right" width="100" height="100" src="http://www.fillmurray.com/100/100">
+
 
 <p align="right">
 ![Adam!](/assets/images/w2.png "adam")
