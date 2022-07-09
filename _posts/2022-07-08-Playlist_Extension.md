@@ -6,7 +6,7 @@ I've liked vibes and specific sounds more.
 To make the song finding process easier, I ran a few machine learning models on a playlist of 50 of my favourite songs and manualy rated them to train the dataset. 
 Result is a 1.5k song that's scawered all over Spotify to find songs that are in close proximity to my eclectic taste. 
 Surprisingly it seems to be working -- I've liked almost every song I've heard so far.
-Will update soon, but the code is here. 
+Will update soon, but the code is linked [here](https://github.com/amenti4k/add-musik)
 
 And below is the playlist. 
 
