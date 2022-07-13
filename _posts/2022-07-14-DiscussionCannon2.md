@@ -58,8 +58,23 @@ In Part 4, Alexander takes away the slight bit of hope that these 4 brakes intro
 
 Well we'll reach these multipolar traps -- even if slow. Time is a relative, but key scale. Time is thus a dimension worth discussing. TIme is further pushed by acclerated growth in technology. We can break the brakes in part 3, by reducing/removing physical limtiations forexample. Tech deduces utlity maximizaition as there is reduced need for human values, and coordiation is unloced to a new level by tech. Alexander further dramatizes the dimesion of time and exasperation with techology by using a.i. dystopian futures. " The last value we have to sacrifice is being anything at all, having the lights on inside. With sufficient technology we will be “able” to give up even the final spark."
 
-**Part 5** 
+**Part 5** The genie's out the box, and there's no going back. 
 
-Gnon is a punishing god with no escaping. Regardless of how one chooses to look at the bottom, that IS the bottom. 
+Gnon - nature, and it's god - operates within Newton's third law of action neccesitating for a reaction. Violating these nature's laws through civilization leads to Gnon's wrath and our downfall. is a punishing god with no escaping. Regardless of how one chooses to look at the bottom, that IS the bottom and there is no escaping it once it's open.  
 
 **Part 6**
+
+The future is bleak, and gnon is just another exepmlification of moloch. Sumbitting to them and following the "natural order of things" isn't going to make you "free". There is no order! It's always downfall. 
+
+**Part 7**
+
+So what now? Given that Moloch/Gnon or whatever want us, and everything we value (i.e. art, science, love, philosophy, consciousness) dead, defeating them should be high priority. Alluding to Bostrom's Superintelligence whereby the design of an inteligent machine will create a feedback loop of out-intellegenting itself. Given our action plan should be designing computers/intelligence that is smarter than us, but still keeps human values. 
+
+But contrary to hubiris where expecting to god to wall us off if we submit to him, this Alexander proposes a transhumanist movment that is "rather actionable" -- remove God from the picture entirely. As he puts it, "I am a transhumanist because I do not have enough hubris not to try to kill God."
+
+
+**Part 8** We need an unincentivized incentivizer! 
+
+Elua -- the god of "... free love and all soft and fragile thigns" and mostly human values still exists. Even if the god seems weaker without worshippers, there he exists. 
+
+As long as Moloch, the god where you can throw things you love to be granted power, exists, the offer is irresistable. A stornger god where we should help. 
