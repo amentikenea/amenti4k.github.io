@@ -2,6 +2,13 @@
 
 ### Review of Meditations on Moloch
 
+
+Moloch is about the triumph of incentives over values. The triumph of instriumental goals over terminal goas. The nash-equilibria where the system is at a steady state is Moloch -- the source of most evil. 
+
+
+Preferring cooperation to submit to the god of our values, instead of falling prey to the competitive forces that maximize individual outcomes.
+
+
 Perliminarieis to know: 
 Nick Bostrom 
 
@@ -78,3 +85,4 @@ But contrary to hubiris where expecting to god to wall us off if we submit to hi
 Elua -- the god of "... free love and all soft and fragile thigns" and mostly human values still exists. Even if the god seems weaker without worshippers, there he exists. 
 
 As long as Moloch, the god where you can throw things you love to be granted power, exists, the offer is irresistable. A stornger god where we should help. 
+
