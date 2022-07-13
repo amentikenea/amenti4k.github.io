@@ -69,11 +69,11 @@ Well we'll reach these multipolar traps -- even if slow. Time is a relative, but
 
 Gnon - nature, and it's god - operates within Newton's third law of action neccesitating for a reaction. Violating these nature's laws through civilization leads to Gnon's wrath and our downfall. is a punishing god with no escaping. Regardless of how one chooses to look at the bottom, that IS the bottom and there is no escaping it once it's open.  
 
-**Part 6**
+**Part 6** The reality is seemingly sad. 
 
-The future is bleak, and gnon is just another exepmlification of moloch. Sumbitting to them and following the "natural order of things" isn't going to make you "free". There is no order! It's always downfall. 
+The future is bleak, and gnon is just another exemplification of moloch. Sumbitting to them and following the "natural order of things" isn't going to make you "free". There is no order! It's always downfall. 
 
-**Part 7**
+**Part 7** What's the alternative to our inevitable downfall?
 
 So what now? Given that Moloch/Gnon or whatever want us, and everything we value (i.e. art, science, love, philosophy, consciousness) dead, defeating them should be high priority. Alluding to Bostrom's Superintelligence whereby the design of an inteligent machine will create a feedback loop of out-intellegenting itself. Given our action plan should be designing computers/intelligence that is smarter than us, but still keeps human values. 
 
