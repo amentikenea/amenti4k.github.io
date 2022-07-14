@@ -9,7 +9,7 @@ I made an **app** that continiously updates my Spotify Wrapped and shows it to m
 
 I used Python, Spotify API, Google Sheets, and Glide to build the app. 
 
-The code for the python [is here]([url](https://github.com/amenti4k/add-musik/blob/main/WrappedApp.ipynb)) if you want to try it youself... Additionally, the google/spotify api authentication might get tricky, so look up tutorials. 
+The code for the python ([is here](https://github.com/amenti4k/add-musik/blob/main/WrappedApp.ipynb)) if you want to try it youself... Additionally, the google/spotify api authentication might get tricky, so look up tutorials. 
 
 ### Project II: Custom Banger Song Recomendation
 Exploring new music to find artists or songs that I like is just so damn good! Especially when the source is unexpected. 
