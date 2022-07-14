@@ -1,3 +1,15 @@
+# Spotify Projects
+
+
+### Project I: Wrapped All Year Around 
+I made an **app** that continiously updates my Spotify Wrapped and shows it to me all year round... 
+
+<img width="265" alt="Screen Shot 2022-07-13 at 10 51 14 PM" src="https://user-images.githubusercontent.com/55615576/178894400-4b10fc38-0afb-4c39-8dfe-8f33b5f24cbb.png">
+
+I used Python, Spotify API, Google Sheets, and Glide to build the app. 
+The code for the python [is here]([url](https://github.com/amenti4k/add-musik/blob/main/WrappedApp.ipynb)) if you want to try it youself... Additionally, the google/spotify api authentication might get tricky, so look up tutorials. 
+
+### Project II: Custom Banger Song Recomendation
 Exploring new music to find artists or songs that I like is just so damn good! Especially when the source is unexpected. 
 I'm a song chaser more than sticking with an artist. Even with artists that I like, it's only most of their songs that appeals to me, while their other songs are admittedly just mid/bad. 
 
