@@ -1,5 +1,11 @@
 # Discusssion Cannon II 
 
+Deep down nobody actually wants it to keep going this way, even the winners. It's a hedonic cycle for civilization. Left unchecked it will sacrifice all our values and all we really value. "Sacrifice values to get ahead". It is not necessarily greed, at points "getting ahead" becomes a necessity. 
+
+Solution 
+We need a god-like overview for redesign. 
+(My solution is multi-stakeholder concept films)
+
 ### Review of Meditations on Moloch
 
 
