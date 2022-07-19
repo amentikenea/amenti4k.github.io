@@ -4,7 +4,7 @@
 # Is the Invisible Hand Actually Malevolent?
 ## A Review of Meditations on Moloch
 
-<img width="538" alt="Screen Shot 2022-07-19 at 5 35 19 PM" src="https://user-images.githubusercontent.com/55615576/179859776-2c89962d-b147-4030-8530-167a391737c2.png">
+<img width="1000" alt="Screen Shot 2022-07-19 at 5 35 19 PM" src="https://user-images.githubusercontent.com/55615576/179859776-2c89962d-b147-4030-8530-167a391737c2.png">
 
 Moloch is about the triumph of incentives over values. The triumph of instrumental goals over terminal goals. The Nash-Equilibrium where the system is at a steady state is Moloch. The source of most evil. A trap where people can't get out of as they are forced to think and act locally. Falling prey to the competitive forces that maximize individual outcomes, instead of preferring cooperation to submit to the god of our values. Moloch appears at any point when multiple agents have similar levels of power and different goals. Moloch exemplifies unfortunate competitive dynamics. 
 
