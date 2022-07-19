@@ -1,7 +1,10 @@
 ***If you’re not familiar with the original document, read my summary below before reading my thoughts on top here…***
 
+
 # Is the Invisible Hand Actually Malevolent?
 ## A Review of Meditations on Moloch
+
+<img width="538" alt="Screen Shot 2022-07-19 at 5 35 19 PM" src="https://user-images.githubusercontent.com/55615576/179859776-2c89962d-b147-4030-8530-167a391737c2.png">
 
 Moloch is about the triumph of incentives over values. The triumph of instrumental goals over terminal goals. The Nash-Equilibrium where the system is at a steady state is Moloch. The source of most evil. A trap where people can't get out of as they are forced to think and act locally. Falling prey to the competitive forces that maximize individual outcomes, instead of preferring cooperation to submit to the god of our values. Moloch appears at any point when multiple agents have similar levels of power and different goals. Moloch exemplifies unfortunate competitive dynamics. 
 
@@ -20,6 +23,9 @@ It’s tempting, and intellectually satisfying, to look at a set of problems, ex
 In Alexander’s case, he just wants a mechanism to stop competition inevitably sliding into local optimization traps, not necessarily advocating for an ideal utopia. Surely our super-intelligent AI overlord would be tempted to stray outside those bounds and look for other ways to help humanity out. The AI is far smarter than we are and has the wellbeing of all of humanity in its purview. How long until it decides that it knows with certainty that it can better manage our happiness than we can?
 
 So, what then? 
+
+<img width="317" alt="Screen Shot 2022-07-19 at 5 34 29 PM" src="https://user-images.githubusercontent.com/55615576/179859707-e443a9a9-f9b1-40c1-adb8-f8b94ab94e37.png">
+
 
 I guess for Marx, capitalism was Moloch, and communism was a solution. While the god-like powers of a super-intelligent AI could potentially solve Communism's information problem, it can't know what is in people's hearts. It will provide a target for the power-hungry to attempt to co-opt, and in defending itself is likely to crush the freedom and flourishing that it was supposed to nurture. There’s a fatal flaw which has been demonstrated time and again by attempted instantiations of Communism: there are people who will go to unimaginable lengths to secure power. They outcompete anyone that’s mild mannered, and eventually the whole system collapses. Although it’s hard to predict how this will take place under our new AI overlord, I can predict it will happen ad-nauseam. Maybe the AI will detect and prevent subversions, but similar to autocrats' attempts, it’s hard to do without clamping down on freedom in general. 
 
