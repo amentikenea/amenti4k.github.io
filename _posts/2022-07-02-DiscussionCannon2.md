@@ -38,7 +38,7 @@ A lot of the rationalist community is focused on AI, which makes sense in that l
 Do Moloch and Eula co-exist? Aren’t they one? An enforcer god(Moloch) for the prize (Eula). Would we want Eula’s values if we didn’t strive for it? Anyways, let's finish off with this beautiful deception by Dostoevsky on the pessimism of utopia:
 "Shower upon him every earthly blessing, drown him in a sea of happiness, so that nothing but bubbles of bliss can be seen on the surface; give him economic prosperity, such that he should have nothing else to do but sleep, eat cakes and busy himself with the continuation of his species, and even then out of sheer ingratitude, sheer spite, man would play you some nasty trick. He would even risk his cakes and would deliberately desire the most fatal rubbish, the most uneconomical absurdity, simply to introduce into all this positive good sense his fatal fantastic element. It is just his fantastic dreams, his vulgar folly that he will desire to retain, simply in order to prove to himself--as though that were so necessary - that men still are men and not the keys of a piano"- Notes from Underground
 
-
+<img width="1000" alt="Screen Shot 2022-07-19 at 5 37 51 PM" src="https://user-images.githubusercontent.com/55615576/179860070-20e7a435-ba98-4f85-9b79-9704cda9b7a9.png">
 
 # Summary of Initial Passage 
 
@@ -76,3 +76,4 @@ So what now? Given that Moloch/Gnon or whatever wants us, and everything we valu
 **Un-incentivized Incentivizer!**
 Elua – the god of "... free love and all soft and fragile things" and mostly human values still exists. Even if the god seems weaker without worshippers, there he exists. As long as Moloch, the god where you can throw things you love to be granted power, exists, the offer is irresistable. A stronger god where we should help.
 
+<img width="1000" alt="Screen Shot 2022-07-19 at 5 37 51 PM" src="https://user-images.githubusercontent.com/55615576/179860070-20e7a435-ba98-4f85-9b79-9704cda9b7a9.png">
